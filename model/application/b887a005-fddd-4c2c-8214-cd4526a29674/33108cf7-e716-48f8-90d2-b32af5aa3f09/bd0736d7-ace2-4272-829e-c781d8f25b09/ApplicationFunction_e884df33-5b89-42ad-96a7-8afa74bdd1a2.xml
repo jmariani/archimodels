@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lógica de aplicación construída"
+    id="e884df33-5b89-42ad-96a7-8afa74bdd1a2"
+    documentation="Un conjunto específico de lógica empresarial coherente (la granularidad puede diferir entre la arquitectura lógica y física).&#xA;También puede contener:&#xA;• Aprovisionamiento de reglas de negocio que son específicas de la aplicación (o proveedor).&#xA;• Aprovisionamiento de la funcionalidad de flujo de trabajo específico de la aplicación que se ejecuta dentro de la propia aplicación.&#xA;Para los tres grupos se debe prestar especial atención a la existencia de estas reglas de negocios y la funcionalidad del flujo de trabajo, la posición dentro de la aplicación (dentro de la lógica de la aplicación, como componente separado, etc.), las posibilidades de integración y especialmente para Make: argumentos claros de por qué se necesita funcionalidad de flujo de trabajo específica (en lo que respecta a la flexibilidad en el paisaje)"/>

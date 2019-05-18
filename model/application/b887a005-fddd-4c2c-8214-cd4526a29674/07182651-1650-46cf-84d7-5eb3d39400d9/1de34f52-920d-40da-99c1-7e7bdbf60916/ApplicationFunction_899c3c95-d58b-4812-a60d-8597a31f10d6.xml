@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Funcionalidad del núcleo de integración"
+    id="899c3c95-d58b-4812-a60d-8597a31f10d6"
+    documentation="Aprovisionamiento de la funcionalidad central para el intercambio de datos, como transformación, enriquecimiento, filtro, etc. Incluye elementos para los almacenes de datos (por ejemplo, carga, extracción) y gestión de la calidad de los datos (por ejemplo, limpieza)"/>

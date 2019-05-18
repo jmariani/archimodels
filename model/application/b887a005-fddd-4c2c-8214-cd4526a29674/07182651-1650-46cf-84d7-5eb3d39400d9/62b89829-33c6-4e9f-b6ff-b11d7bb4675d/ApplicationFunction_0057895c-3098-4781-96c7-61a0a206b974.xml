@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mediación de servicios"
+    id="0057895c-3098-4781-96c7-61a0a206b974"
+    documentation="Suministro de una forma estándar de describir y llamar a un servicio (por ejemplo, invocar un procedimiento de forma remota). Esto se hará principalmente utilizando tecnología de servicios web"/>

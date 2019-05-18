@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Canal electrónico"
+    id="efec4de9-7b35-4cef-8476-38def4b1dfd9"
+    documentation="Tráfico electrónico de entrada y salida desde y hacia actores externos (B2B, B2C). Tales como archivos, correo electrónico, consumo de servicios (externos), aprovisionamiento de servicios (externos), etc."/>

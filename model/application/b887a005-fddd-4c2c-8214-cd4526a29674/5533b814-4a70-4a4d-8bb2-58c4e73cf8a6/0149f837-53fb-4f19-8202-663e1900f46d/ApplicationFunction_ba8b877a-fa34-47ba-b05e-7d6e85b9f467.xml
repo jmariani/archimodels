@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cliente ultra delgado"
+    id="ba8b877a-fa34-47ba-b05e-7d6e85b9f467"
+    documentation="Computación basada en servidor (Arquitectura de computación independiente), que entrega solo datos de presentación y envía acciones de usuario.&#xA;"/>

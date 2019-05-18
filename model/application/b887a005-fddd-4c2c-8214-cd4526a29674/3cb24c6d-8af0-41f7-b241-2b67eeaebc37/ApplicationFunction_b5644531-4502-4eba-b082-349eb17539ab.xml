@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inicio de sesión único"
+    id="b5644531-4502-4eba-b082-349eb17539ab"
+    documentation="Brindar la posibilidad de un inicio de sesión único para el usuario y la reutilización y verificación de estos datos de autenticación por parte de las aplicaciones para que el usuario no tenga que iniciar sesión nuevamente"/>

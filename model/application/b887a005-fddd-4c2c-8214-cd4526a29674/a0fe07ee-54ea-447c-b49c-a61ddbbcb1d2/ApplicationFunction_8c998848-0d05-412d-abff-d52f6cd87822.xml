@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de cambios"
+    id="8c998848-0d05-412d-abff-d52f6cd87822"
+    documentation="Elemento para respaldar la presentación de una solicitud de cambio, la definición de soluciones, el análisis del impacto del cambio, el proceso de decisión y la implementación. Esto incluye también cambios en la arquitectura"/>

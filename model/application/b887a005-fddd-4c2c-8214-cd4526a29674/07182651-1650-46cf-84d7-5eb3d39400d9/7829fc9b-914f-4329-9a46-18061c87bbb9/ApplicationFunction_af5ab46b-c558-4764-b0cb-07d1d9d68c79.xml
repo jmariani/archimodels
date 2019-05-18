@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mensajería"
+    id="af5ab46b-c558-4764-b0cb-07d1d9d68c79"
+    documentation="Aprovisionamiento de una forma estándar de intercambio de mensajes. Proporcionar capacidades como entrega garantizada, enrutamiento de contenido, envío, publicación-suscripción, agregación, etc. Incluye el manejo de eventos"/>

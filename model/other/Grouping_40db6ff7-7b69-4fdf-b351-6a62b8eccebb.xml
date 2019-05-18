@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gobierno de SOA"
+    id="40db6ff7-7b69-4fdf-b351-6a62b8eccebb"
+    documentation="Contiene la política de servicio, el repositorio (incluidos los acuerdos de consumo) y el registro. El registro facilita las etapas de publicación, descubrimiento y consumo del ciclo de vida. Un repositorio proporciona una vista más amplia que permite el seguimiento de los servicios como un estado de activos a lo largo de su ciclo de vida y mantener sus relaciones con otros tipos de activos"/>

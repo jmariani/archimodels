@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Componente de negocio"
+    id="e026c5ef-9bd9-4430-86bd-0197a862b8aa"
+    documentation="La llamada lógica de negocios entre dominios, hecha de componer múltiples servicios de uno o más dominios funcionales"/>

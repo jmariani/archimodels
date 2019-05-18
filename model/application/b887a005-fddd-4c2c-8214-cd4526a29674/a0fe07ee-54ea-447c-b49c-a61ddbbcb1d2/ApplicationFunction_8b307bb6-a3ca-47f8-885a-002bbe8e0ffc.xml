@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Respaldos y recuperación"
+    id="8b307bb6-a3ca-47f8-885a-002bbe8e0ffc"
+    documentation="Contiene funcionalidad para hacer copias de datos, de modo que estas copias adicionales se puedan usar para restaurar el original después de un evento de pérdida de datos"/>

@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Composición"
+    id="3e0dff2c-d51c-4331-b978-a760079acf89"
+    documentation="La capa de composición proporciona software específico, agrupado en elementos 'Orquestados' y 'Compuestos'. En varios modelos de arquitectura, la parte &quot;Orquestada&quot; se llama Business Process Management (BPM) y se encuentra en una capa separada. Los procesos de negocios son en realidad un tipo de composición de servicios disponibles, por lo tanto, se incluye en esta capa. Esta capa también se puede calificar como una capa de dominio cruzado, de ahí la posición del elemento de Reglas de Negocio en esta capa"/>

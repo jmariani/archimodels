@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cliente ultra delgado"
+    id="439c66d7-ec86-4b47-88fb-fb5221269e02"
+    documentation="Computación basada en servidor (Arquitectura de computación independiente), que entrega solo datos de presentación y envía acciones de usuario."/>

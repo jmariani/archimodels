@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Propagación principal"
+    id="695703b9-6d5d-4c7a-b556-e89c49d3b78b"
+    documentation="La propagación de la identidad del usuario (incluido el contexto) y las mutaciones en las credenciales del usuario en todo el paisaje"/>

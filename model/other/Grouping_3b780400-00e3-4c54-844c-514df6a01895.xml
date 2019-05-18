@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Composición"
+    id="3b780400-00e3-4c54-844c-514df6a01895"
+    documentation="Esta capa contiene la composición de servicios utilizados para crear servicios adicionales con un valor comercial específico mediante la reutilización de los servicios proporcionados desde la capa de aplicación, derivados de los siguientes elementos"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entidad de negocio"
+    id="9a45561f-ca2f-43cb-8eb8-20105cf83208"
+    documentation="Objeto de dominio cruzado (por ejemplo, empleado, factura). En realidad, esta entidad se ve con frecuencia como una API abstracta (un proveedor con servicios de acceso) a los servicios de aprovisionamiento reales en la capa de aplicación"/>

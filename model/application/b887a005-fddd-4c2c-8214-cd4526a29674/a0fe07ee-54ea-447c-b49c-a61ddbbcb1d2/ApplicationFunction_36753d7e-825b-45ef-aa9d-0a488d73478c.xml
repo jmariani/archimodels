@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de lotes"
+    id="36753d7e-825b-45ef-aa9d-0a488d73478c"
+    documentation="Programación y gestión de lotes. Contiene la definición de trabajos y su programación, incluido el monitoreo de trabajos y lotes predefinidos"/>

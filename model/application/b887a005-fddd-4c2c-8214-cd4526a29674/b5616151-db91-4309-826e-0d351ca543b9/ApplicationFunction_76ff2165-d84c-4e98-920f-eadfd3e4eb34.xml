@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reglas de negocio"
+    id="76ff2165-d84c-4e98-920f-eadfd3e4eb34"
+    documentation="Composición de las reglas de negocio que se utilizan en procesos de dominio cruzado. Este elemento se coloca en la capa de composición debido a su propósito de dominio cruzado. Contiene lógica de dominio cruzado y sirve como un motor de reglas de negocios para dominios relevantes"/>

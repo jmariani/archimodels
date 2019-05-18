@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acceso a datos"
+    id="f6e31f86-d058-4907-982d-8ae78327e7ec"
+    documentation="Acceso a las operaciones en los recursos de datos, por ejemplo, CRUD (como un conjunto mínimo)"/>

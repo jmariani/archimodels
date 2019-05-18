@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicios de presentación"
+    id="77d88b8a-3e26-4d97-9a64-7f969a3fb792"
+    documentation="La capa de presentación proporciona software específico para mostrar información al usuario y manejar los eventos iniciados por el mismo"/>

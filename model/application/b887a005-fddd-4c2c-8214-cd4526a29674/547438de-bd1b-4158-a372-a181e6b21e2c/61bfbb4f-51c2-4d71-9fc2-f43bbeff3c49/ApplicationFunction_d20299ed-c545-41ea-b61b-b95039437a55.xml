@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acceso a datos"
+    id="d20299ed-c545-41ea-b61b-b95039437a55"
+    documentation="Acceso a las operaciones en los recursos de datos, por ejemplo, CRUD (como un conjunto mínimo)"/>

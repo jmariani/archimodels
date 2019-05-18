@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integración de interfaz de usuario"
+    id="a215707b-7e1f-440e-b369-934f586778d1"
+    documentation="Integra diferentes interfaces de usuario y servicios de presentación existentes al ofrecer varios servicios de integración de presentación (es decir, WSRP, representación de WS)&#xA;La integración de la interfaz de usuario se comporta como una interfaz de usuario, proporcionando un servicio de presentación al integrar un servicio de presentación &quot;real&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplicación"
+    id="0ad035b1-bd0c-4009-b7f2-61cff06c44e3"
+    documentation="La capa de aplicación es donde se ubica la funcionalidad empresarial principal.&#xA;Esta capa proporciona software específico de la aplicación agrupado en elementos 'Crear', 'Comprar' y 'Legado'.&#xA;Esta distinción es necesaria al diseñar una arquitectura. Aspectos como la integración, la migración y la gobernabilidad pueden diferir entre estos grupos. Una arquitectura casi siempre debe tener en cuenta el legado del panorama de TI actual. La capa de Integración y Composición hace posible integrar funcionalidades heredadas dentro de soluciones orientadas a servicios"/>

@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Información"
+    id="d19770c8-21ea-4416-91ef-86d914382216"
+    documentation="La capa de datos proporciona software específico para datos agrupados en los elementos 'Acceso a datos' y 'Almacenamiento de datos'. La distinción entre estos dos grupos se basa en la separación de responsabilidades y de funcionalidad (por ejemplo, se proporciona acceso, pero solo para el almacenamiento de datos maestros). La diferenciación de los diferentes tipos de datos para el almacenamiento es esencial a nivel empresarial. Los diferentes tipos de datos también pueden necesitar una tecnología diferente para el acceso a los datos"/>

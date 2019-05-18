@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integración"
+    id="897b2f1a-ff30-44e2-a0fb-1bac6c23c204"
+    documentation="La capa de integración es la columna vertebral de esta arquitectura de referencia. Proporciona software específico para la integración agrupado en elementos de 'Comunicación síncrona', 'Comunicación Asincrónica' y 'Común'.&#xA;La razón principal para hacer una distinción entre síncrono y asincrónico es que tienen diferentes requisitos, diferentes patrones de integración y, dentro de una arquitectura física, a menudo se implementan de manera diferente en tiempo de ejecución (dos componentes de tiempo de ejecución diferentes o un producto con múltiples despliegues). Ambos grupos deben estar respaldados por los mismos elementos comunes agrupados en el grupo &quot;Común&quot;."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registro de actividades"
+    id="da8d9386-009b-4451-a8ee-e9b70d80fc3b"
+    documentation="Este puede ser un servicio de registro centralizado, donde los sistemas envían mensajes de registro a una solución central (por ejemplo, mediante el uso de una solución de integración). Pero esto también puede ser un componente reutilizable que se usa en el momento del diseño al desarrollar una solución"/>

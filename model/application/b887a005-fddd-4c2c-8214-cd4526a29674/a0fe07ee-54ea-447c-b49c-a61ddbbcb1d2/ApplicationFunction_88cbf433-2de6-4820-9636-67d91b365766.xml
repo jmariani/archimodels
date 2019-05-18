@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoreo del sistema"
+    id="88cbf433-2de6-4820-9636-67d91b365766"
+    documentation="Elemento para el monitoreo activo de todos los activos, desde el crecimiento de la base de datos hasta la temperatura del servidor"/>

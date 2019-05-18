@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorización"
+    id="c9dacb4a-3f3a-4350-9c61-3560334e99f4"
+    documentation="Autorizar el uso de funcionalidades y datos. Preferiblemente, basado en el acceso basado en roles y administrado desde una perspectiva de ciclo de vida"/>
